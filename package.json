@@ -1,0 +1,15 @@
+{
+  "name": "cafe-florette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nom": "^0.0.3",
+    "sass": "^1.45.2"
+  }
+}
